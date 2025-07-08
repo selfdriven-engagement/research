@@ -1,2 +1,2 @@
 # selfdriven Research
-Public Domain Selfdriven Foundation Research
+Public Domain selfdriven Foundation Research
