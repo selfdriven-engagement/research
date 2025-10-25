@@ -9,6 +9,7 @@ title: Home
 - [Education](https://selfdriven.education/)
 - [AI](https://selfdriven.ai/)
 - [Network Infra](https://www.selfdriven.network/infra-interface/)
+ -   [Handshake Beyond URLs](/infra-interface/research/-beyond-urls/)
 
 
 
