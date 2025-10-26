@@ -7,9 +7,9 @@ title: Home
 
 - [**Research Group**](https://selfdriven.fyi/research)
 - [Education](https://selfdriven.education/)
-- [AI](https://selfdriven.ai/)
+- [AI](https://selfdriven.ai/research/)
 - [Network Infra](https://www.selfdriven.network/infra-interface/)
- -   [Handshake Beyond URLs](/infra-interface/research/-beyond-urls/)
+ -   [Handshake Beyond URLs](https://selfdriven.network/infra-interface/research/-beyond-urls/)
 
 
 
